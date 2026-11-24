@@ -1,0 +1,62 @@
+{
+  "language": "ru",
+  "duration": 5.376,
+  "segments": [
+    {
+      "start": 1.36,
+      "end": 3.5,
+      "text": " это похода группа туристов",
+      "words": [
+        {
+          "start": 1.36,
+          "end": 1.84,
+          "text": " это",
+          "probability": 0.0952
+        },
+        {
+          "start": 1.84,
+          "end": 2.18,
+          "text": " похода",
+          "probability": 0.6542
+        },
+        {
+          "start": 2.18,
+          "end": 2.58,
+          "text": " группа",
+          "probability": 0.9603
+        },
+        {
+          "start": 2.58,
+          "end": 3.5,
+          "text": " туристов",
+          "probability": 0.9882
+        }
+      ]
+    },
+    {
+      "start": 3.5,
+      "end": 5.14,
+      "text": " скверный Гейдар Алигова",
+      "words": [
+        {
+          "start": 3.5,
+          "end": 4.18,
+          "text": " скверный",
+          "probability": 0.6078
+        },
+        {
+          "start": 4.18,
+          "end": 4.62,
+          "text": " Гейдар",
+          "probability": 0.7887
+        },
+        {
+          "start": 4.62,
+          "end": 5.14,
+          "text": " Алигова",
+          "probability": 0.5221
+        }
+      ]
+    }
+  ]
+}

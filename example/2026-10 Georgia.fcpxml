@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.9">
+    <resources>
+        <format id="r-format"
+                name="FFVideoFormat3840x2160"
+                frameDuration="79063/2325600s"
+                width="3840"
+                height="2160"
+                colorSpace="1-1-1 (Rec. 709)"/>
+        <asset id="r1" name="2026_10_24_160414112.mp4" uid="E:\RAW\2026-10 Georgia\2026_10_24_160414112.mp4" duration="2745243/125000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///E:/RAW/2026-10%20Georgia/2026_10_24_160414112.mp4"/></asset>
+        <asset id="r2" name="2026_10_24_170125122.mp4" uid="E:\RAW\2026-10 Georgia\2026_10_24_170125122.mp4" duration="11745989/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///E:/RAW/2026-10%20Georgia/2026_10_24_170125122.mp4"/></asset>
+        <asset id="r3" name="2026_10_24_171300418.mp4" uid="E:\RAW\2026-10 Georgia\2026_10_24_171300418.mp4" duration="9445361/250000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///E:/RAW/2026-10%20Georgia/2026_10_24_171300418.mp4"/></asset>
+        <asset id="r4" name="2026_10_25_072201363.mp4" uid="E:\RAW\2026-10 Georgia\2026_10_25_072201363.mp4" duration="3185943/125000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///E:/RAW/2026-10%20Georgia/2026_10_25_072201363.mp4"/></asset>
+        <asset id="r5" name="2026_10_25_054540500.mp4" uid="E:\RAW\2026-10 Georgia\2026_10_25_054540500.mp4" duration="23015411/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///E:/RAW/2026-10%20Georgia/2026_10_25_054540500.mp4"/></asset>
+        <asset id="r6" name="2026_10_25_061620260.mp4" uid="E:\RAW\2026-10 Georgia\2026_10_25_061620260.mp4" duration="16876011/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///E:/RAW/2026-10%20Georgia/2026_10_25_061620260.mp4"/></asset>
+        <asset id="r7" name="2026_10_25_061906245.mp4" uid="E:\RAW\2026-10 Georgia\2026_10_25_061906245.mp4" duration="2697411/250000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///E:/RAW/2026-10%20Georgia/2026_10_25_061906245.mp4"/></asset>
+        <asset id="r8" name="2026_10_25_085856758.mp4" uid="E:\RAW\2026-10 Georgia\2026_10_25_085856758.mp4" duration="8989011/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///E:/RAW/2026-10%20Georgia/2026_10_25_085856758.mp4"/></asset>
+        <asset id="r9" name="2026_10_25_065944686.mp4" uid="E:\RAW\2026-10 Georgia\2026_10_25_065944686.mp4" duration="8301911/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///E:/RAW/2026-10%20Georgia/2026_10_25_065944686.mp4"/></asset>
+        <asset id="r10" name="2026_10_25_064719113.mp4" uid="E:\RAW\2026-10 Georgia\2026_10_25_064719113.mp4" duration="9803967/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///E:/RAW/2026-10%20Georgia/2026_10_25_064719113.mp4"/></asset>
+        <asset id="r11" name="2026_10_25_080023581.mp4" uid="E:\RAW\2026-10 Georgia\2026_10_25_080023581.mp4" duration="5366689/500000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///E:/RAW/2026-10%20Georgia/2026_10_25_080023581.mp4"/></asset>
+        <asset id="r12" name="2026_10_25_091150706.mp4" uid="E:\RAW\2026-10 Georgia\2026_10_25_091150706.mp4" duration="5533211/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///E:/RAW/2026-10%20Georgia/2026_10_25_091150706.mp4"/></asset>
+    </resources>
+    <library>
+        <event name="2026-10 Georgia">
+            <project name="2026-10 Georgia">
+                <sequence format="r-format"
+                          duration="50s"
+                          tcStart="0s"
+                          tcFormat="NDF"
+                          audioLayout="stereo"
+                          audioRate="48k">
+                    <spine>
+                        <asset-clip name="2026_10_24_160414112 [01]" ref="r1" offset="0s" start="0s" duration="7/2s" enabled="1"/>
+                        <asset-clip name="2026_10_24_170125122 [02]" ref="r2" offset="7/2s" start="4s" duration="4s" enabled="1"/>
+                        <asset-clip name="2026_10_24_171300418 [03]" ref="r3" offset="15/2s" start="7s" duration="5s" enabled="1"/>
+                        <asset-clip name="2026_10_25_072201363 [04]" ref="r4" offset="25/2s" start="0s" duration="6s" enabled="1"/>
+                        <asset-clip name="2026_10_25_054540500 [05]" ref="r5" offset="37/2s" start="19s" duration="7/2s" enabled="1"/>
+                        <asset-clip name="2026_10_25_061620260 [06]" ref="r6" offset="22s" start="0s" duration="4s" enabled="1"/>
+                        <asset-clip name="2026_10_25_061906245 [07]" ref="r7" offset="26s" start="7s" duration="7/2s" enabled="1"/>
+                        <asset-clip name="2026_10_25_085856758 [08]" ref="r8" offset="59/2s" start="0s" duration="5s" enabled="1"/>
+                        <asset-clip name="2026_10_25_065944686 [09]" ref="r9" offset="69/2s" start="0s" duration="5s" enabled="1"/>
+                        <asset-clip name="2026_10_25_064719113 [10]" ref="r10" offset="79/2s" start="7s" duration="5/2s" enabled="1"/>
+                        <asset-clip name="2026_10_25_080023581 [11]" ref="r11" offset="42s" start="5s" duration="4s" enabled="1"/>
+                        <asset-clip name="2026_10_25_091150706 [12]" ref="r12" offset="46s" start="0s" duration="4s" enabled="1"/>
+                    </spine>
+                </sequence>
+            </project>
+        </event>
+    </library>
+</fcpxml>
